@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Евгения](https://up.htmlacademy.ru/javascript/32/user/1172931).
-* Наставник: `Неизвестно`.
+* Студент: [Евгения Сабирова](https://up.htmlacademy.ru/javascript/32/user/1172931).
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/id1293419).
 
 ---
 
